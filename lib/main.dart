@@ -13,10 +13,10 @@ void main() {
     debugShowCheckedModeBanner: false,
     routes: {
       "/about_me": (context) =>
-          new WebPage("about me", "https://github.com/Mosquito1123"),
-      "/about_app": (context) =>
-          new WebPage("about app", "http://flutter.link/"),
-      "/code": (context) => new WebPage("look project",
+          new WebPage("About Me", "https://github.com/Mosquito1123"),
+      "/about_app": (context) => new WebPage("About App",
+          "https://github.com/Mosquito1123/SmartPocketReadHub/blob/master/README.md"),
+      "/code": (context) => new WebPage("Look Project",
           "https://github.com/Mosquito1123/SmartPocketReadHub.git"),
     },
     home: new ReadHubApp(),
