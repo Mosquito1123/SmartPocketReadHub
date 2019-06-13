@@ -13,7 +13,6 @@
 
 
 
-![](http://ww1.sinaimg.cn/large/0060lm7Tly1fo250cafsmj30dc0np76j.jpg)
 
 ![](http://ww3.sinaimg.cn/large/0060lm7Tly1fo250o8iazj30dc0npn1j.jpg)
 
