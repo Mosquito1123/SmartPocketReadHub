@@ -5,7 +5,7 @@
 ## Getting Started
 
    
-1.	git clone https://github.com/flyou/readhub_flutter.git
+1.	git clone https://github.com/Mosquito1123/SmartPocketReadHub.git
 
 2.	cd readhub_flutter
 	
