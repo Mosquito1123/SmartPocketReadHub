@@ -7,9 +7,6 @@ import 'package:readhub/app/ui/NewsItemView.dart';
 import 'package:readhub/app/ui/main/FirstPage.dart';
 
 class SecondPage extends StatefulWidget {
-
-
-
   @override
   State<StatefulWidget> createState() {
     return new FirstPageState();
@@ -35,7 +32,7 @@ class FirstPageState extends State<SecondPage> {
         headers: {"Accept": "application/json"});
     print(response.body);
     setState(() {
-      var dataConvertedToJSON = JSON.decode(response.body);
+      var dataConvertedToJSON = json.decode(response.body);
       data = dataConvertedToJSON['data'];
     });
 
